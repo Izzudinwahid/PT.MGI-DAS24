@@ -9088,6 +9088,54 @@ Based on the previous libraries:
 <text x="19.685" y="4.445" size="1.27" layer="21" ratio="10">11</text>
 <text x="24.765" y="4.445" size="1.27" layer="21" ratio="10">12</text>
 </package>
+<package name="MSTBA4" urn="urn:adsk.eagle:footprint:9522/1" library_version="3">
+<description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
+<wire x1="-11.176" y1="7.112" x2="-11.176" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-11.176" y1="7.112" x2="-8.255" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-8.255" y1="7.112" x2="-6.985" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="-6.985" y1="7.112" x2="-3.175" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="7.112" x2="-1.905" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="8.255" y1="7.112" x2="11.176" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-11.176" y1="-1.905" x2="11.176" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="11.176" y1="7.112" x2="11.176" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-11.176" y1="-4.953" x2="-8.509" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-11.176" y1="-1.905" x2="-11.176" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="11.176" y1="-1.905" x2="11.176" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-6.731" y1="-4.953" x2="-7.112" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-6.731" y1="-4.953" x2="-3.429" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-7.112" y1="-3.683" x2="-8.128" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-8.509" y1="-4.953" x2="-8.128" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-8.509" y1="-4.953" x2="-6.731" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-1.651" y1="-4.953" x2="-2.032" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-1.651" y1="-4.953" x2="1.651" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="1.651" y1="-4.953" x2="3.429" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="3.429" y1="-4.953" x2="6.731" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="6.731" y1="-4.953" x2="8.509" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="8.509" y1="-4.953" x2="11.176" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-3.429" y1="-4.953" x2="-3.048" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-3.429" y1="-4.953" x2="-1.651" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-3.048" y1="-3.683" x2="-2.032" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="2.032" y1="-3.683" x2="3.048" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="3.429" y1="-4.953" x2="3.048" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="1.651" y1="-4.953" x2="2.032" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="7.112" x2="3.175" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="-1.905" y1="7.112" x2="1.905" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="6.985" y1="7.112" x2="8.255" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="3.175" y1="7.112" x2="6.985" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="7.112" y1="-3.683" x2="8.128" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="8.509" y1="-4.953" x2="8.128" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="6.731" y1="-4.953" x2="7.112" y2="-3.683" width="0.1524" layer="21"/>
+<pad name="1" x="-7.62" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="2" x="-2.54" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="4" x="7.62" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="3" x="2.54" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<text x="-11.176" y="7.62" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-10.16" y="0" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-9.652" y="4.445" size="1.27" layer="21" ratio="10">1</text>
+<text x="-4.826" y="4.445" size="1.27" layer="21" ratio="10">2</text>
+<text x="0.254" y="4.445" size="1.27" layer="21" ratio="10">3</text>
+<text x="5.334" y="4.445" size="1.27" layer="21" ratio="10">4</text>
+</package>
 <package name="MSTBA3" urn="urn:adsk.eagle:footprint:9517/1" library_version="3">
 <description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
 <wire x1="-8.636" y1="7.112" x2="-8.636" y2="-1.905" width="0.1524" layer="21"/>
@@ -9163,6 +9211,12 @@ Based on the previous libraries:
 <description>PHOENIX</description>
 <packageinstances>
 <packageinstance name="MSTBA12"/>
+</packageinstances>
+</package3d>
+<package3d name="MSTBA4" urn="urn:adsk.eagle:package:9613/1" type="box" library_version="3">
+<description>PHOENIX</description>
+<packageinstances>
+<packageinstance name="MSTBA4"/>
 </packageinstances>
 </package3d>
 <package3d name="MSTBA3" urn="urn:adsk.eagle:package:9608/1" type="box" library_version="3">
@@ -9246,6 +9300,37 @@ Based on the previous libraries:
 <attribute name="OC_FARNELL" value="3705250" constant="no"/>
 <attribute name="OC_NEWARK" value="71C4169" constant="no"/>
 <attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MSTBA4" urn="urn:adsk.eagle:component:9702/2" prefix="X" library_version="3">
+<description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
+<gates>
+<gate name="-1" symbol="SK" x="0" y="7.62" addlevel="always"/>
+<gate name="-2" symbol="SK" x="0" y="2.54" addlevel="always"/>
+<gate name="-3" symbol="SK" x="0" y="-2.54" addlevel="always"/>
+<gate name="-4" symbol="SKV" x="0" y="-7.62" addlevel="always"/>
+</gates>
+<devices>
+<device name="" package="MSTBA4">
+<connects>
+<connect gate="-1" pin="1" pad="1"/>
+<connect gate="-2" pin="1" pad="2"/>
+<connect gate="-3" pin="1" pad="3"/>
+<connect gate="-4" pin="1" pad="4"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:9613/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MF" value="FARNELL" constant="no"/>
+<attribute name="MPN" value="1757268" constant="no"/>
+<attribute name="OC_FARNELL" value="3705195" constant="no"/>
+<attribute name="OC_NEWARK" value="71C4163" constant="no"/>
+<attribute name="POPULARITY" value="9" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -9700,6 +9785,8 @@ Based on the previous libraries:
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="X1" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA12" device="" package3d_urn="urn:adsk.eagle:package:9623/1"/>
 <part name="X2" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA12" device="" package3d_urn="urn:adsk.eagle:package:9623/1"/>
+<part name="X3" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA4" device="" package3d_urn="urn:adsk.eagle:package:9613/1"/>
+<part name="X4" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA4" device="" package3d_urn="urn:adsk.eagle:package:9613/1"/>
 <part name="LED1" library="SML-LXT0805IW-TR" deviceset="SML-LXT0805IW-TR" device=""/>
 <part name="LED2" library="SML-LXT0805IW-TR" deviceset="SML-LXT0805IW-TR" device=""/>
 <part name="LED3" library="SML-LXT0805IW-TR" deviceset="SML-LXT0805IW-TR" device=""/>
@@ -9731,7 +9818,6 @@ Based on the previous libraries:
 <part name="X6" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA3" device="" package3d_urn="urn:adsk.eagle:package:9608/1"/>
 <part name="X7" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA2" device="" package3d_urn="urn:adsk.eagle:package:9615/1"/>
 <part name="X8" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA2" device="" package3d_urn="urn:adsk.eagle:package:9615/1"/>
-<part name="AC1" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X2" device="" package3d_urn="urn:adsk.eagle:package:22435/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -10423,6 +10509,32 @@ Based on the previous libraries:
 <attribute name="VALUE" x="-84.328" y="-197.104" size="1.778" layer="96"/>
 <attribute name="NAME" x="-83.312" y="-192.405" size="1.778" layer="95" rot="R180"/>
 </instance>
+<instance part="X3" gate="-1" x="-44.196" y="-155.956" smashed="yes">
+<attribute name="NAME" x="-50.8" y="-155.067" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X3" gate="-2" x="-44.196" y="-161.036" smashed="yes">
+<attribute name="NAME" x="-50.8" y="-160.147" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X3" gate="-3" x="-44.196" y="-166.116" smashed="yes">
+<attribute name="NAME" x="-50.8" y="-165.227" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X3" gate="-4" x="-44.196" y="-171.196" smashed="yes">
+<attribute name="VALUE" x="-51.816" y="-175.006" size="1.778" layer="96"/>
+<attribute name="NAME" x="-50.8" y="-170.307" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X4" gate="-1" x="-44.196" y="-183.896" smashed="yes">
+<attribute name="NAME" x="-50.8" y="-183.007" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X4" gate="-2" x="-44.196" y="-188.976" smashed="yes">
+<attribute name="NAME" x="-50.8" y="-188.087" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X4" gate="-3" x="-44.196" y="-194.056" smashed="yes">
+<attribute name="NAME" x="-50.8" y="-193.167" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="X4" gate="-4" x="-44.196" y="-199.136" smashed="yes">
+<attribute name="VALUE" x="-51.816" y="-202.946" size="1.778" layer="96"/>
+<attribute name="NAME" x="-50.8" y="-198.247" size="1.778" layer="95" rot="R180"/>
+</instance>
 <instance part="LED1" gate="G$1" x="-25.4" y="157.226" smashed="yes" rot="R90">
 <attribute name="NAME" x="-29.47026875" y="155.19086875" size="1.780740625" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-21.58685" y="155.19231875" size="1.77946875" layer="96" rot="R90"/>
@@ -10533,9 +10645,9 @@ Based on the previous libraries:
 <attribute name="VALUE" x="-111.506" y="-91.694" size="1.778" layer="96"/>
 <attribute name="NAME" x="-111.506" y="-70.612" size="1.778" layer="95"/>
 </instance>
-<instance part="AC220" gate="G$1" x="32.512" y="-175.514" smashed="yes">
-<attribute name="NAME" x="26.162" y="-169.799" size="1.778" layer="95"/>
-<attribute name="VALUE" x="26.162" y="-180.594" size="1.778" layer="96"/>
+<instance part="AC220" gate="G$1" x="-5.334" y="-159.512" smashed="yes">
+<attribute name="NAME" x="-11.684" y="-153.797" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-11.684" y="-164.592" size="1.778" layer="96"/>
 </instance>
 <instance part="X5" gate="-1" x="5.842" y="-166.116" smashed="yes" rot="R180">
 <attribute name="NAME" x="12.446" y="-167.005" size="1.778" layer="95"/>
@@ -10570,10 +10682,6 @@ Based on the previous libraries:
 <instance part="X8" gate="-2" x="5.334" y="-197.612" smashed="yes" rot="R180">
 <attribute name="VALUE" x="12.954" y="-193.802" size="1.778" layer="96" rot="R180"/>
 <attribute name="NAME" x="11.938" y="-198.501" size="1.778" layer="95"/>
-</instance>
-<instance part="AC1" gate="G$1" x="28.448" y="-152.146" smashed="yes">
-<attribute name="NAME" x="22.098" y="-146.431" size="1.778" layer="95"/>
-<attribute name="VALUE" x="22.098" y="-157.226" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -10739,9 +10847,9 @@ Based on the previous libraries:
 <junction x="41.14" y="-50.42"/>
 </segment>
 <segment>
-<pinref part="X5" gate="-1" pin="1"/>
-<wire x1="0.762" y1="-166.116" x2="-3.048" y2="-166.116" width="0.1524" layer="91"/>
-<label x="-2.794" y="-166.116" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="X3" gate="-4" pin="1"/>
+<wire x1="-39.116" y1="-171.196" x2="-34.798" y2="-171.196" width="0.1524" layer="91"/>
+<label x="-34.798" y="-171.196" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="P1" class="0">
@@ -11879,6 +11987,11 @@ Based on the previous libraries:
 <label x="34.544" y="-163.068" size="1.778" layer="95"/>
 </segment>
 <segment>
+<pinref part="X4" gate="-3" pin="1"/>
+<wire x1="-39.116" y1="-194.056" x2="-34.544" y2="-194.056" width="0.1524" layer="91"/>
+<label x="-34.544" y="-194.056" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
 <pinref part="X8" gate="-1" pin="1"/>
 <wire x1="0.254" y1="-202.692" x2="-3.302" y2="-202.692" width="0.1524" layer="91"/>
 <label x="-3.302" y="-202.692" size="1.778" layer="95" rot="R180" xref="yes"/>
@@ -11889,6 +12002,11 @@ Based on the previous libraries:
 <pinref part="TTL-RS1" gate="G$1" pin="A"/>
 <wire x1="39.624" y1="-158.496" x2="35.052" y2="-158.496" width="0.1524" layer="91"/>
 <label x="34.544" y="-157.988" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X4" gate="-4" pin="1"/>
+<wire x1="-39.116" y1="-199.136" x2="-35.052" y2="-199.136" width="0.1524" layer="91"/>
+<label x="-35.052" y="-199.136" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="X8" gate="-2" pin="1"/>
@@ -11931,15 +12049,15 @@ Based on the previous libraries:
 </net>
 <net name="NO" class="0">
 <segment>
+<pinref part="X4" gate="-2" pin="1"/>
+<wire x1="-39.116" y1="-188.976" x2="-34.544" y2="-188.976" width="0.1524" layer="91"/>
+<label x="-34.544" y="-188.976" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
 <pinref part="K2" gate="2" pin="S"/>
 <wire x1="128.27" y1="-74.168" x2="128.27" y2="-69.85" width="0.1524" layer="91"/>
 <wire x1="128.27" y1="-69.85" x2="143.002" y2="-69.85" width="0.1524" layer="91"/>
 <label x="143.002" y="-69.85" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="X6" gate="-1" pin="1"/>
-<wire x1="-0.508" y1="-193.294" x2="-4.064" y2="-193.294" width="0.1524" layer="91"/>
-<label x="-4.318" y="-193.294" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="COMMON" class="0">
@@ -11947,14 +12065,14 @@ Based on the previous libraries:
 <wire x1="137.82" y1="-79.008" x2="137.82" y2="-78.994" width="0.1524" layer="91"/>
 </segment>
 <segment>
+<pinref part="X4" gate="-1" pin="1"/>
+<wire x1="-39.116" y1="-183.896" x2="-34.29" y2="-183.896" width="0.1524" layer="91"/>
+<label x="-34.29" y="-183.896" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
 <pinref part="K2" gate="2" pin="P"/>
 <wire x1="133.35" y1="-81.788" x2="142.494" y2="-81.788" width="0.1524" layer="91"/>
 <label x="142.494" y="-81.788" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="X6" gate="-2" pin="1"/>
-<wire x1="-0.508" y1="-188.214" x2="-4.318" y2="-188.214" width="0.1524" layer="91"/>
-<label x="-4.318" y="-188.214" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="NC" class="0">
@@ -11962,11 +12080,6 @@ Based on the previous libraries:
 <pinref part="K2" gate="2" pin="O"/>
 <wire x1="138.43" y1="-74.168" x2="142.748" y2="-74.168" width="0.1524" layer="91"/>
 <label x="142.748" y="-74.168" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="X6" gate="-3" pin="1"/>
-<wire x1="-0.508" y1="-183.134" x2="-4.318" y2="-183.134" width="0.1524" layer="91"/>
-<label x="-4.318" y="-183.134" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -12233,8 +12346,8 @@ Based on the previous libraries:
 </segment>
 <segment>
 <pinref part="AC220" gate="G$1" pin="1"/>
-<wire x1="29.972" y1="-172.974" x2="24.13" y2="-172.974" width="0.1524" layer="91"/>
-<label x="24.13" y="-172.974" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="-7.874" y1="-156.972" x2="-13.716" y2="-156.972" width="0.1524" layer="91"/>
+<label x="-13.716" y="-156.972" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="-" class="0">
@@ -12245,8 +12358,8 @@ Based on the previous libraries:
 </segment>
 <segment>
 <pinref part="AC220" gate="G$1" pin="2"/>
-<wire x1="29.972" y1="-175.514" x2="24.13" y2="-175.514" width="0.1524" layer="91"/>
-<label x="24.13" y="-175.514" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="-7.874" y1="-159.512" x2="-13.716" y2="-159.512" width="0.1524" layer="91"/>
+<label x="-13.716" y="-159.512" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -12729,28 +12842,11 @@ Based on the previous libraries:
 <junction x="37.838" y="-48.134"/>
 </segment>
 </net>
-<net name="24V-" class="0">
+<net name="GNDSISTEM" class="0">
 <segment>
-<pinref part="X5" gate="-3" pin="1"/>
-<wire x1="0.762" y1="-155.956" x2="-3.302" y2="-155.956" width="0.1524" layer="91"/>
-<label x="-3.302" y="-155.956" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="AC1" gate="G$1" pin="1"/>
-<wire x1="25.908" y1="-149.606" x2="20.574" y2="-149.606" width="0.1524" layer="91"/>
-<label x="20.066" y="-149.352" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="24V+" class="0">
-<segment>
-<pinref part="X5" gate="-2" pin="1"/>
-<wire x1="0.762" y1="-161.036" x2="-3.302" y2="-161.036" width="0.1524" layer="91"/>
-<label x="-3.556" y="-161.036" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="AC1" gate="G$1" pin="2"/>
-<wire x1="25.908" y1="-152.146" x2="20.574" y2="-152.146" width="0.1524" layer="91"/>
-<label x="20.574" y="-152.146" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="X3" gate="-3" pin="1"/>
+<wire x1="-39.116" y1="-166.116" x2="-35.052" y2="-166.116" width="0.1524" layer="91"/>
+<label x="-35.306" y="-166.116" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 </nets>
