@@ -12340,32 +12340,26 @@ Based on the previous libraries:
 </net>
 <net name="+" class="0">
 <segment>
-<pinref part="X3" gate="-1" pin="1"/>
-<wire x1="-39.116" y1="-155.956" x2="-34.544" y2="-155.956" width="0.1524" layer="91"/>
-<label x="-34.544" y="-155.956" size="1.778" layer="95" xref="yes"/>
-<pinref part="AC220" gate="G$1" pin="1"/>
-<wire x1="-34.544" y1="-155.956" x2="-34.29" y2="-155.956" width="0.1524" layer="91"/>
-<wire x1="-34.29" y1="-155.956" x2="-7.874" y2="-155.956" width="0.1524" layer="91"/>
-<wire x1="-7.874" y1="-155.956" x2="-7.874" y2="-156.972" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="X7" gate="-1" pin="1"/>
 <wire x1="1.016" y1="-176.53" x2="-3.556" y2="-176.53" width="0.1524" layer="91"/>
 <label x="-3.556" y="-176.53" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="AC220" gate="G$1" pin="1"/>
+<wire x1="-7.874" y1="-156.972" x2="-13.716" y2="-156.972" width="0.1524" layer="91"/>
+<label x="-13.716" y="-156.972" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="-" class="0">
-<segment>
-<pinref part="X3" gate="-2" pin="1"/>
-<label x="-34.544" y="-161.036" size="1.778" layer="95" xref="yes"/>
-<pinref part="AC220" gate="G$1" pin="2"/>
-<wire x1="-39.116" y1="-161.036" x2="-7.874" y2="-161.036" width="0.1524" layer="91"/>
-<wire x1="-7.874" y1="-161.036" x2="-7.874" y2="-159.512" width="0.1524" layer="91"/>
-</segment>
 <segment>
 <pinref part="X7" gate="-2" pin="1"/>
 <wire x1="1.016" y1="-171.45" x2="-3.81" y2="-171.45" width="0.1524" layer="91"/>
 <label x="-3.81" y="-171.45" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="AC220" gate="G$1" pin="2"/>
+<wire x1="-7.874" y1="-159.512" x2="-13.716" y2="-159.512" width="0.1524" layer="91"/>
+<label x="-13.716" y="-159.512" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$2" class="0">

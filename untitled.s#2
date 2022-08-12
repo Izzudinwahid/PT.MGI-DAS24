@@ -12069,6 +12069,11 @@ Based on the previous libraries:
 <wire x1="128.27" y1="-69.85" x2="143.002" y2="-69.85" width="0.1524" layer="91"/>
 <label x="143.002" y="-69.85" size="1.778" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="X6" gate="-1" pin="1"/>
+<wire x1="-0.508" y1="-193.294" x2="-4.064" y2="-193.294" width="0.1524" layer="91"/>
+<label x="-4.318" y="-193.294" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="COMMON" class="0">
 <segment>
@@ -12084,12 +12089,22 @@ Based on the previous libraries:
 <wire x1="133.35" y1="-81.788" x2="142.494" y2="-81.788" width="0.1524" layer="91"/>
 <label x="142.494" y="-81.788" size="1.778" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="X6" gate="-2" pin="1"/>
+<wire x1="-0.508" y1="-188.214" x2="-4.318" y2="-188.214" width="0.1524" layer="91"/>
+<label x="-4.318" y="-188.214" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="NC" class="0">
 <segment>
 <pinref part="K2" gate="2" pin="O"/>
 <wire x1="138.43" y1="-74.168" x2="142.748" y2="-74.168" width="0.1524" layer="91"/>
 <label x="142.748" y="-74.168" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="X6" gate="-3" pin="1"/>
+<wire x1="-0.508" y1="-183.134" x2="-4.318" y2="-183.134" width="0.1524" layer="91"/>
+<label x="-4.318" y="-183.134" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -12881,24 +12896,6 @@ Based on the previous libraries:
 <pinref part="AC1" gate="G$1" pin="2"/>
 <wire x1="25.908" y1="-152.146" x2="20.574" y2="-152.146" width="0.1524" layer="91"/>
 <label x="20.574" y="-152.146" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="N$27" class="0">
-<segment>
-<pinref part="X6" gate="-2" pin="1"/>
-<wire x1="-0.508" y1="-188.214" x2="-4.318" y2="-188.214" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$29" class="0">
-<segment>
-<pinref part="X6" gate="-3" pin="1"/>
-<wire x1="-0.508" y1="-183.134" x2="-4.318" y2="-183.134" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$30" class="0">
-<segment>
-<pinref part="X6" gate="-1" pin="1"/>
-<wire x1="-0.508" y1="-193.294" x2="-4.064" y2="-193.294" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
