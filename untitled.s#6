@@ -12868,6 +12868,24 @@ Based on the previous libraries:
 <label x="-3.556" y="-161.036" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
+<net name="N$27" class="0">
+<segment>
+<pinref part="X6" gate="-2" pin="1"/>
+<wire x1="-0.508" y1="-188.214" x2="-4.318" y2="-188.214" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$29" class="0">
+<segment>
+<pinref part="X6" gate="-3" pin="1"/>
+<wire x1="-0.508" y1="-183.134" x2="-4.318" y2="-183.134" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$30" class="0">
+<segment>
+<pinref part="X6" gate="-1" pin="1"/>
+<wire x1="-0.508" y1="-193.294" x2="-4.064" y2="-193.294" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>

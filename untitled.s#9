@@ -10645,9 +10645,9 @@ Based on the previous libraries:
 <attribute name="VALUE" x="-111.506" y="-91.694" size="1.778" layer="96"/>
 <attribute name="NAME" x="-111.506" y="-70.612" size="1.778" layer="95"/>
 </instance>
-<instance part="AC220" gate="G$1" x="-5.334" y="-159.512" smashed="yes">
-<attribute name="NAME" x="-11.684" y="-153.797" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-11.684" y="-164.592" size="1.778" layer="96"/>
+<instance part="AC220" gate="G$1" x="32.512" y="-175.514" smashed="yes">
+<attribute name="NAME" x="26.162" y="-169.799" size="1.778" layer="95"/>
+<attribute name="VALUE" x="26.162" y="-180.594" size="1.778" layer="96"/>
 </instance>
 <instance part="X5" gate="-1" x="5.842" y="-166.116" smashed="yes" rot="R180">
 <attribute name="NAME" x="12.446" y="-167.005" size="1.778" layer="95"/>
@@ -12346,8 +12346,8 @@ Based on the previous libraries:
 </segment>
 <segment>
 <pinref part="AC220" gate="G$1" pin="1"/>
-<wire x1="-7.874" y1="-156.972" x2="-13.716" y2="-156.972" width="0.1524" layer="91"/>
-<label x="-13.716" y="-156.972" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="29.972" y1="-172.974" x2="24.13" y2="-172.974" width="0.1524" layer="91"/>
+<label x="24.13" y="-172.974" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="-" class="0">
@@ -12358,8 +12358,8 @@ Based on the previous libraries:
 </segment>
 <segment>
 <pinref part="AC220" gate="G$1" pin="2"/>
-<wire x1="-7.874" y1="-159.512" x2="-13.716" y2="-159.512" width="0.1524" layer="91"/>
-<label x="-13.716" y="-159.512" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="29.972" y1="-175.514" x2="24.13" y2="-175.514" width="0.1524" layer="91"/>
+<label x="24.13" y="-175.514" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$2" class="0">

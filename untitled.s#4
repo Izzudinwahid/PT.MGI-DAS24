@@ -12865,12 +12865,22 @@ Based on the previous libraries:
 <wire x1="0.762" y1="-155.956" x2="-3.302" y2="-155.956" width="0.1524" layer="91"/>
 <label x="-3.302" y="-155.956" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="AC1" gate="G$1" pin="1"/>
+<wire x1="25.908" y1="-149.606" x2="20.574" y2="-149.606" width="0.1524" layer="91"/>
+<label x="20.066" y="-149.352" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="24V+" class="0">
 <segment>
 <pinref part="X5" gate="-2" pin="1"/>
 <wire x1="0.762" y1="-161.036" x2="-3.302" y2="-161.036" width="0.1524" layer="91"/>
 <label x="-3.556" y="-161.036" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="AC1" gate="G$1" pin="2"/>
+<wire x1="25.908" y1="-152.146" x2="20.574" y2="-152.146" width="0.1524" layer="91"/>
+<label x="20.574" y="-152.146" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$27" class="0">
@@ -12889,18 +12899,6 @@ Based on the previous libraries:
 <segment>
 <pinref part="X6" gate="-1" pin="1"/>
 <wire x1="-0.508" y1="-193.294" x2="-4.064" y2="-193.294" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$31" class="0">
-<segment>
-<pinref part="AC1" gate="G$1" pin="1"/>
-<wire x1="25.908" y1="-149.606" x2="20.574" y2="-149.606" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$32" class="0">
-<segment>
-<pinref part="AC1" gate="G$1" pin="2"/>
-<wire x1="25.908" y1="-152.146" x2="20.574" y2="-152.146" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
